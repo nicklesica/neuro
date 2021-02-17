@@ -2,7 +2,7 @@
 
 This archive contains the Matlab code used for analyzing neural activity from the Lesica lab database as of December 2020.
 
-It relies the neural activity being stored in a specific format. 
+It relies on the neural activity being stored in a specific format. 
 
 The data from a single experiment are stored in a single file. Each R_* variable in each file contains the responses to one sound stored as a binary sparse matrix R_<sound> with size <time_bins> x <cells>.
 
