@@ -14,7 +14,7 @@ BLK_*  is the presentation order within the experiment for the response for each
 
 IX_* is the list of cells that actually have responses for a given sound and trial (all R_* matrices contain columns for all cells, but some of those columns may be empty) 
 
-Two example data files are included with the archive, along with an analysis script for decoding the responses to consonant-vowel syllables.
+Two example data files are included with the archive, along with an analysis script for decoding responses to consonant-vowel syllables.
   
 
 
